@@ -1,4 +1,4 @@
-# 📊 Predictive Modelling of Permitting Cost in Telecom Infrastructure Projects
+#  Predictive Modelling of Permitting Cost in Telecom Infrastructure Projects
 
 ## 🧩 Overview
 This project builds a predictive model to estimate **permitting costs** in telecom infrastructure using **econometric and regression analysis techniques**.  
