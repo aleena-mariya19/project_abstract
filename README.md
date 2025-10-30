@@ -1,7 +1,7 @@
 #  Predictive Modelling of Permitting Cost in Telecom Infrastructure Projects
 
 ## 🧩 Overview
-This project builds a predictive model to estimate **permitting costs** in telecom infrastructure using **econometric and regression analysis techniques**.  
+This project builds a predictive model to estimate **permitting costs** in telecom infrastructure using econometric and regression analysis techniques.  
 It applies data-driven insights to support better project budgeting, cost forecasting, and regulatory decision-making in the telecom sector.
 
 ---
@@ -36,7 +36,7 @@ It applies data-driven insights to support better project budgeting, cost foreca
 ---
 
 ## 📈 Results
-- The model achieved a strong explanatory power (R² > 0.8).  
+- The model achieved a strong explanatory power .  
 - Regulatory fees and material costs were found to be the most significant predictors.  
 - Diagnostic tests confirmed model robustness and reliability.
 
